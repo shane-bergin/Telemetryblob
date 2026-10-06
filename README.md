@@ -1,6 +1,8 @@
 
 # Telemetry Blob
 
+<img width="1457" height="1079" alt="telemetry-blob-public-screenshot" src="https://github.com/user-attachments/assets/21de9d8b-8e3c-418b-8aad-bfa0ad000a3e" />
+
 A native macOS network-activity visualizer built with Swift, SwiftUI, and Metal. Local traffic, CPU activity, and optional nearby wireless observations drive an animated polygonal blob.
 
 ## Features
@@ -13,9 +15,6 @@ A native macOS network-activity visualizer built with Swift, SwiftUI, and Metal.
 - Searchable observation details, privacy controls, and reduced-motion settings.
 
 This is a visualization tool only.
-
-<img width="1457" height="1079" alt="telemetry-blob-public-screenshot" src="https://github.com/user-attachments/assets/21de9d8b-8e3c-418b-8aad-bfa0ad000a3e" />
-
 
 ## Requirements
 
