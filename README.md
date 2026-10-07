@@ -27,4 +27,4 @@ This is a visualization tool only.
 3. Eject the disk image and launch the app.
 4. Enable Bluetooth or Nearby Wi-Fi if desired, then grant the corresponding macOS permissions.
 
-**Signing notice:** This early test build is ad-hoc signed and **not notarized by Apple**. macOS may block it, particularly on managed devices. Do not disable system security controls to install it.
+**Signing notice:** This early test build is ad-hoc signed and **not notarized by Apple**. macOS may block it, in such case going to System Settings -> Privacy & Security-- then scrolling down and clicking "Open Anyway" will launch the application.
